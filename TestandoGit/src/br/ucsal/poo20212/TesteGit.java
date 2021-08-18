@@ -12,6 +12,9 @@ public class TesteGit {
 		String name = sc.next();
 	
 		System.out.println("Bem vindo ao Git "+name+" !!");
+		
+		System.out.println("Está parte do codigo foi editada no GIT " +name);
+		
 
 		sc.close();
 	}
