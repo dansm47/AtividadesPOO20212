@@ -13,7 +13,7 @@ public class TesteGit {
 	
 		System.out.println("Bem vindo ao Git "+name+" !!");
 		
-		System.out.println("Está parte do codigo foi editada no GIT " +name);
+		System.out.println("Esta parte do codigo foi editada no GIT " +name);
 		
 
 		sc.close();
