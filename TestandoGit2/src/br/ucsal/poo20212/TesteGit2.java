@@ -14,7 +14,7 @@ public class TesteGit2 {
 		int result = num1+num2;
 		System.out.println("Resultado da soma é " +result);
 		sc.close();
-		System.out.println("Está parte do codigo foi editada no git");
+		System.out.println("Esta parte do codigo foi editada no git");
 
 	}
 
