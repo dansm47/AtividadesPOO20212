@@ -12,7 +12,7 @@ public class TesteGit2 {
 		System.out.println("Digite o segundo numero");
 		int num2 = sc.nextInt();
 		int result = num1+num2;
-		System.out.println("Resultado da soma é " +result);
+		System.out.println("Resultado da soma e " +result);
 		sc.close();
 		System.out.println("Esta parte do codigo foi editada no git");
 
